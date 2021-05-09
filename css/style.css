@@ -1,5 +1,5 @@
 .bg-dark {
-	background: linear-gradient(55deg, tomato, purple)!important;
+	background: linear-gradient(55deg, #1E90FF, #483D8B)!important;
 }
 .row {
 	margin:0 ! important;
@@ -10,4 +10,13 @@
     margin-top: calc(var(--bs-gutter-y) * -1);
     margin-right: calc(var(--bs-gutter-x)/ -2);
     margin-left: calc(var(--bs-gutter-x)/ -2);
+}
+.row>* {
+    flex-shrink: 0;
+    width: 100%;
+    padding-top: 10px ! important;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x)/ 2);
+    padding-left: calc(var(--bs-gutter-x)/ 2);
+    margin-top: var(--bs-gutter-y);
 }
