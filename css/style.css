@@ -1,5 +1,5 @@
 .bg-dark {
-	background: linear-gradient(55deg, #1E90FF, #483D8B)!important;
+	background: linear-gradient(55deg, #faf3f3, #483D8B)!important;
 }
 .row {
 	margin:0 ! important;
@@ -19,4 +19,8 @@
     padding-right: calc(var(--bs-gutter-x)/ 2);
     padding-left: calc(var(--bs-gutter-x)/ 2);
     margin-top: var(--bs-gutter-y);
+}
+
+.rounded-circle {
+	width: 48px !important;
 }
