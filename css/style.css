@@ -1,5 +1,5 @@
 .bg-dark {
-	background: linear-gradient(55deg, #faf3f3, #483D8B)!important;
+	background: linear-gradient(55deg, #faf3f3, #04009a)!important;
 }
 .row {
 	margin:0 ! important;
@@ -24,3 +24,4 @@
 .rounded-circle {
 	width: 48px !important;
 }
+
