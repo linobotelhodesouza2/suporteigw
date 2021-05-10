@@ -1,9 +1,9 @@
-.wat a{
+.wat  img{
 	position:fixed;
-	width:60px;
-	height:60px;
+	width:50px;
+	height:50px;
 	bottom:100px;
-	right:25px;
+	right:35px;
 	background-color:#25d366;
 	color:#FFF;
 	border-radius:50px;
