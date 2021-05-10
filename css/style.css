@@ -24,4 +24,6 @@
 .rounded-circle {
 	width: 48px !important;
 }
-
+.container p{
+	text-align: justify;
+}
