@@ -20,12 +20,23 @@
     padding-left: calc(var(--bs-gutter-x)/ 2);
     margin-top: var(--bs-gutter-y);
 }
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 10%;
+    overflow: hidden;
+}
 
 .rounded-circle {
 	width: 48px !important;
 }
 .container p{
 	text-align: justify;
+    padding-top: 12px;
+}
+.container p .bold{
+    text-align: center;
 }
 
 .navegacao {
@@ -36,3 +47,4 @@
 .nav-menu>li {
   padding: 0 0 0 30px;
 }
+
