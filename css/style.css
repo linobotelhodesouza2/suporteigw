@@ -68,4 +68,8 @@
 
 .navbar-nav a{
    text-decoration: none !important;/* tirando o underline dos links*/
+   color: white;
+}
+.navbar-nav a:hover {
+    color: white;
 }
