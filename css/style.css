@@ -89,3 +89,8 @@
     background: url(../img/teste1.jpg) 50% 0 fixed;
     position: relative; 
 }
+
+
+#parallaxBar {
+    background-position: 53% -133.333px !important;
+}
