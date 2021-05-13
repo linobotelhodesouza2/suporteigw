@@ -94,3 +94,15 @@
 #parallaxBar {
     background-position: 53% -133.333px !important;
 }
+.navbar-brand-seta{
+    float: left !important;
+    margin-top: 0px;
+    margin-left: -30px;
+}
+}
+.navbar-brand{
+    padding: 20px !important;
+}
+.container-fluid{
+    width: 100% !important;
+}
