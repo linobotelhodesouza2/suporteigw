@@ -83,16 +83,20 @@
 }
 
 #parallaxBar{
-    height:250px;
+    height:400px;
     background-repeat: no-repeat;
     background-color:#004c82;
     background: url(../img/teste1.webp) 50% 0 fixed;
     position: relative; 
+    background-repeat-y: no-repeat;
+}
+
+
 }
 
 
 #parallaxBar {
-    background-position: 53% -133.333px !important;
+    background-position: 67% -138.833px !important;
 }
 .navbar-brand-seta{
     float: left !important;
