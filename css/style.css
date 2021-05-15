@@ -102,10 +102,14 @@
 }
 
 .navbar-brand-seta{
-    float: left !important;
     margin-top: 0px;
     margin-left: -30px;
 }
+
+.navbar-brand-seta img {
+    vertical-align: middle;
+    border-style: none;
+    float: left;
 }
 .navbar-brand{
     padding: 20px !important;
