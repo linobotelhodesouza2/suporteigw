@@ -89,15 +89,12 @@
     background: url(../img/teste1.webp) 50% 0 fixed;
     position: relative; 
     background-repeat-y: no-repeat;
+    background-position: 67% 100px !important;
 }
 
 
 }
 
-
-#parallaxBar {
-    background-position: 67% -138.833px !important;
-}
 .navbar-brand-seta{
     float: left !important;
     margin-top: 0px;
