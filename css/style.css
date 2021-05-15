@@ -89,7 +89,7 @@
 }
 
 #parallaxBar{
-    height:400px;
+    height:auto;
     background-repeat: no-repeat;
     background-color:#004c82;
     background: url(../img/teste1.webp) 50% 0 fixed;
