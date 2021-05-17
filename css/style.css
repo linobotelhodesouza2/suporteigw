@@ -90,14 +90,12 @@
     height:auto;
     background-repeat: no-repeat;
     background-color:#004c82;
-    background: url(../img/teste3.jpg) 50% 0 fixed;
+    background: url(../img/teste3.webp) 50% 0 fixed;
     position: relative; 
     background-repeat-y: no-repeat;
     background-position: 67% 100px !important;
 }
 
-
-}
 
 .navbar-brand-seta{
     margin-top: 0px;
@@ -120,5 +118,9 @@
 }
 
 header ul {
-    padding-top: 10px;   
+    padding-top: 0;   
+}
+
+header ul {
+    margin-top: -38px;
 }
