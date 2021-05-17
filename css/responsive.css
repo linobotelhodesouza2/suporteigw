@@ -1,4 +1,4 @@
-@media (max-width: 992px)/*colocando o menu hamburguer*/
+	@media (max-width: 992px)/*colocando o menu hamburguer*/
 {
 	.toggle
 	{
@@ -208,6 +208,15 @@
 		margin: 10px 0;
 		font-size: 20px;
 	}
+	#parallaxBar {
+	    height: auto;
+	    background-repeat: no-repeat;
+	    background-color: #004c82;
+	    background: url(../img/teste4.jpg) 50% 0 fixed;
+	    position: relative;
+	    background-repeat-y: no-repeat;
+	    background-position: 67% 100px !important;
+	}
 } 
 /***********************************************************************/
 @media(max-width: 540px){
@@ -277,6 +286,15 @@
 		display: inline-block;
 		margin: 10px 0;
 		font-size: 20px;
+	}
+	#parallaxBar {
+	    height: auto;
+	    background-repeat: no-repeat;
+	    background-color: #004c82;
+	    background: url(../img/teste4.jpg) 50% 0 fixed;
+	    position: relative;
+	    background-repeat-y: no-repeat;
+	    background-position: 67% 100px !important;
 	}
 }
 /***********************************************************************/
@@ -348,6 +366,15 @@
 		margin: 10px 0;
 		font-size: 20px;
 	}
+	#parallaxBar {
+	    height: auto;
+	    background-repeat: no-repeat;
+	    background-color: #004c82;
+	    background: url(../img/teste4.jpg) 50% 0 fixed;
+	    position: relative;
+	    background-repeat-y: no-repeat;
+	    background-position: 67% 100px !important;
+	}
 }
 /***********************************************************************/
 @media(max-width: 414px){
@@ -417,6 +444,15 @@
 		display: inline-block;
 		margin: 10px 0;
 		font-size: 20px;
+	}
+	#parallaxBar {
+	    height: auto;
+	    background-repeat: no-repeat;
+	    background-color: #004c82;
+	    background: url(../img/teste4.jpg) 50% 0 fixed;
+	    position: relative;
+	    background-repeat-y: no-repeat;
+	    background-position: 67% 100px !important;
 	}
 }
 /***********************************************************************/
@@ -488,6 +524,15 @@
 		margin: 10px 0;
 		font-size: 20px;
 	}
+	#parallaxBar {
+	    height: auto;
+	    background-repeat: no-repeat;
+	    background-color: #004c82;
+	    background: url(../img/teste4.jpg) 50% 0 fixed;
+	    position: relative;
+	    background-repeat-y: no-repeat;
+	    background-position: 67% 100px !important;
+	}
 }
 /***********************************************************************/
 @media(max-width: 320px){
@@ -557,5 +602,14 @@
 		display: inline-block;
 		margin: 10px 0;
 		font-size: 20px;
+	}
+	#parallaxBar {
+	    height: auto;
+	    background-repeat: no-repeat;
+	    background-color: #004c82;
+	    background: url(../img/teste4.jpg) 50% 0 fixed;
+	    position: relative;
+	    background-repeat-y: no-repeat;
+	    background-position: 67% 100px !important;
 	}
 }
