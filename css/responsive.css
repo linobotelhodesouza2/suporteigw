@@ -144,6 +144,14 @@
 	#header a img{
 		float: right;
 	}
+	header.active ul {
+	    visibility: visible;
+	    opacity: 1;
+	    display: block;
+	    padding-top: 63px;
+	    margin-top: 0px;
+	    background: #0954f4;
+	}
 }
 /***********************************************************************/
 @media(max-width: 768px){
@@ -222,6 +230,14 @@
 	    position: relative;
 	    background-repeat-y: no-repeat;
 	    background-position: 67% 100px !important;
+	}
+	header.active ul {
+	    visibility: visible;
+	    opacity: 1;
+	    display: block;
+	    padding-top: 63px;
+	    margin-top: 0px;
+	    background: #0954f4;
 	}
 } 
 /***********************************************************************/
@@ -302,6 +318,14 @@
 	    background-repeat-y: no-repeat;
 	    background-position: 67% 100px !important;
 	}
+	header.active ul {
+	    visibility: visible;
+	    opacity: 1;
+	    display: block;
+	    padding-top: 63px;
+	    margin-top: 0px;
+	    background: #0954f4;
+	}
 }
 /***********************************************************************/
 @media(max-width: 480px){
@@ -380,6 +404,14 @@
 	    position: relative;
 	    background-repeat-y: no-repeat;
 	    background-position: 67% 100px !important;
+	}
+	header.active ul {
+	    visibility: visible;
+	    opacity: 1;
+	    display: block;
+	    padding-top: 63px;
+	    margin-top: 0px;
+	    background: #0954f4;
 	}
 }
 /***********************************************************************/
@@ -460,6 +492,14 @@
 	    background-repeat-y: no-repeat;
 	    background-position: 67% 100px !important;
 	}
+	header.active ul {
+	    visibility: visible;
+	    opacity: 1;
+	    display: block;
+	    padding-top: 63px;
+	    margin-top: 0px;
+	    background: #0954f4;
+	}
 }
 /***********************************************************************/
 @media(max-width: 375px){
@@ -539,6 +579,14 @@
 	    background-repeat-y: no-repeat;
 	    background-position: 67% 100px !important;
 	}
+	header.active ul {
+	    visibility: visible;
+	    opacity: 1;
+	    display: block;
+	    padding-top: 63px;
+	    margin-top: 0px;
+	    background: #0954f4;
+	}
 }
 /***********************************************************************/
 @media(max-width: 320px){
@@ -617,5 +665,13 @@
 	    position: relative;
 	    background-repeat-y: no-repeat;
 	    background-position: 67% 100px !important;
+	}
+	header.active ul {
+	    visibility: visible;
+	    opacity: 1;
+	    display: block;
+	    padding-top: 63px;
+	    margin-top: 0px;
+	    background: #0954f4;
 	}
 }
