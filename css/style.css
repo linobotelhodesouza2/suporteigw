@@ -127,3 +127,6 @@ header ul {
 .galeria{
     padding-top: 100px !important;
 }
+.container-fluid{
+    height: 75px;
+}
