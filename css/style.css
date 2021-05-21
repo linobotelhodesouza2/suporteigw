@@ -131,18 +131,22 @@ header ul {
     height: 75px;
 }
 .container-contato{
-    margin-top: 70px !important;
+    margin-top: 100px !important;
 }
 .container-contato h2{
     text-align: center !important;
 }
 .container-fluid-footer{
-    height: 239px;
+    height:0%;
 }
-
+.container-fluid-footer .p-4{
+    padding: 1.5rem!important;
+    margin-top: 80px !important;
+}
 .row-contato .col-md-4{
     text-align: left!important;
 }
 .row-contato .col-md-4 h5{
     font-size: 16px;
 }
+
