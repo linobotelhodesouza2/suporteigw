@@ -125,7 +125,7 @@ header ul {
     margin-top: -38px;
 }
 .galeria{
-    padding-top: 100px !important;
+    padding-top: 0 !important;
 }
 .container-fluid{
     height: 75px;
@@ -135,13 +135,14 @@ header ul {
 }
 .container-contato h2{
     text-align: center !important;
+    padding-bottom: 35px;
 }
 .container-fluid-footer{
     height:0%;
 }
-.container-fluid-footer .p-4{
+.p-4{
     padding: 1.5rem!important;
-    margin-top: 80px !important;
+    margin-top: 100px;
 }
 .row-contato .col-md-4{
     text-align: left!important;
