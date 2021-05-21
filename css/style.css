@@ -20,6 +20,10 @@
     padding-left: calc(var(--bs-gutter-x)/ 2);
     margin-top: var(--bs-gutter-y);
 }
+#carouselExampleFade-ini {
+    position: relative;
+    margin-top: 60px !important;
+}
 .carousel-inner {
     position: relative;
     width: 100%;
