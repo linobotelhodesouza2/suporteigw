@@ -8,7 +8,7 @@
 			$mensagem = $_POST["mensagem"];
 
 			$conn = mysqli_connect($servidor,$dbusuario,$dbsenha,$dbname);
-				mysqli_select_db($conn,'$dbepiz_28462971_myform ');
+				mysqli_select_db($conn,'$dbigwteste');
 			$sql = "INSERT INTO tbigw (nome,email,assunto,mensagem) VALUES ('$nome' ,'$email','$assunto','$mensagem')";
 				if (mysqli_query($conn, $sql)) {
 					echo "<script> window.location = 'contato.php';</script>";
