@@ -71,6 +71,14 @@
 	#header a img{
 		float: right;
 	}
+		header.active ul {
+	    visibility: visible;
+	    opacity: 1;
+	    display: block;
+	    padding-top: 63px;
+	    margin-top: 0px;
+	    background: #0954f4;
+	}
 }
 /***********************************************************************/
 @media(max-width: 860px){

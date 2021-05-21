@@ -108,7 +108,7 @@
     float: left;
 }
 .navbar-brand{
-    padding: 20px !important;
+    padding: 6px !important;
 }
 .container-fluid{
     width: 100% !important;
@@ -129,4 +129,20 @@ header ul {
 }
 .container-fluid{
     height: 75px;
+}
+.container-contato{
+    margin-top: 70px !important;
+}
+.container-contato h2{
+    text-align: center !important;
+}
+.container-fluid-footer{
+    height: 239px;
+}
+
+.row-contato .col-md-4{
+    text-align: left!important;
+}
+.row-contato .col-md-4 h5{
+    font-size: 16px;
 }
