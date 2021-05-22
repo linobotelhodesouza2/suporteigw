@@ -140,7 +140,7 @@ header {
     padding: 2% 3%;
     z-index: 1000;
     transition: 0.6s;
-    background-image: linear-gradient( to right, #e1f1dd 10%, lightblue, blue );
+    background-image: linear-gradient( to right, #e1f1dd 10%, #4ca1a3 30%, lightblue );
 }
 header.sticky {
     /*padding: 15px 100px !important;*/
