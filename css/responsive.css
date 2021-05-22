@@ -79,6 +79,14 @@
 	    margin-top: 0px;
 	    background: #0954f4;
 	}
+	.row>* {
+	    flex-shrink: 0;
+	    width: 100%;
+	    max-width: 50% !important;
+	    padding-right: calc(var(--bs-gutter-x)/ 2);
+	    padding-left: calc(var(--bs-gutter-x)/ 2);
+	    margin-top: var(--bs-gutter-y);
+	}
 }
 /***********************************************************************/
 @media(max-width: 860px){
@@ -159,6 +167,14 @@
 	    padding-top: 63px;
 	    margin-top: 0px;
 	    background: #0954f4;
+	}
+	.row>* {
+	    flex-shrink: 0;
+	    width: 100%;
+	    max-width: 50% !important;
+	    padding-right: calc(var(--bs-gutter-x)/ 2);
+	    padding-left: calc(var(--bs-gutter-x)/ 2);
+	    margin-top: var(--bs-gutter-y);
 	}
 }
 /***********************************************************************/
@@ -249,6 +265,14 @@
 	}
 	.mb-0 {
 	    text-align: initial;
+	}
+	.row>* {
+	    flex-shrink: 0;
+	    width: 100%;
+	    max-width: 100% !important;
+	    padding-right: calc(var(--bs-gutter-x)/ 2);
+	    padding-left: calc(var(--bs-gutter-x)/ 2);
+	    margin-top: var(--bs-gutter-y);
 	}
 } 
 /***********************************************************************/
