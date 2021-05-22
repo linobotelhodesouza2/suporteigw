@@ -85,7 +85,10 @@
 }
 
 #servicos p{
-    text-align: justify;
+    text-align: center;
+}
+#servicos .card-body p{
+    text-align: left;
 }
 
 .navbar-nav a{
