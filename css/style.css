@@ -143,7 +143,7 @@ header {
     background-image: linear-gradient( to right, #e1f1dd 10%, lightblue, blue );
 }
 header.sticky {
-    padding: 15px 100px !important;
+    /*padding: 15px 100px !important;*/
     background: #fff;
     border-bottom: 1px solid rgba(0,0,0,.1);
 }
