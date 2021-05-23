@@ -151,7 +151,7 @@ header {
     transition: 0.6s;
     background-image: linear-gradient( to right, #e1f1dd 10%, #4ca1a3 30%, lightblue );
 }
-header.sticky {
+#header.sticky {
     padding: 15px 40px !important;
     background: #fff;
     border-bottom: 1px solid rgba(0,0,0,.1);
