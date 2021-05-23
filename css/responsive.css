@@ -95,7 +95,7 @@
 	    padding-top: 50px;
 	    max-width: max-content;
 	    margin: 0px;
-	    padding: 0px;
+	    margin-top: 0px;
 	}
 	header.sticky ul li a {
 	    color: #fff;
@@ -107,6 +107,10 @@
 	    flex-wrap: wrap;
 	    margin-right: -15px;
 	    margin-left: -15px;
+	}
+	#home{
+	    display: block;
+	    padding-top: 10px;
 	}
 }
 /***********************************************************************/
