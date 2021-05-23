@@ -79,26 +79,26 @@
         <div class="contactForm">
           <form action="processa_envio.php" method="post">
             <i class="fas fa-user prefix grey-text"></i>
-            <input type="text" id="form-name" class="form-control" name="nome" placeholder="Nome Completo" required >
-            <label for="form-name">* Nome Completo</label>
+            <input type="text" id="form-name" class="form-control" name="nome" placeholder="* Nome Completo" required >
+            <label for="form-name"></label>
           </div>
 
           <div class="md-form">
             <i class="fas fa-envelope prefix grey-text"></i>
-            <input type="email" id="form-email" class="form-control" name="email" placeholder="Email" required >
-            <label for="form-email">* Email</label>
+            <input type="email" id="form-email" class="form-control" name="email" placeholder="* Email" required >
+            <label for="form-email"></label>
           </div>
 
           <div class="md-form">
             <i class="fas fa-tag prefix grey-text"></i>
             <input type="text" id="form-Subject" class="form-control" name="assunto" placeholder="Assunto" >
-            <label for="form-Subject">Assunto</label>
+            <label for="form-Subject"></label>
           </div>
 
           <div class="md-form">
             <i class="fas fa-pencil-alt prefix grey-text"></i>
             <textarea name="mensagem" placeholder="Mensagem" id="form-text" class="form-control md-textarea" rows="3"></textarea>
-            <label for="form-text">Mensagem</label>
+            <label for="form-text"></label>
           </div>
 
           <div class="text-center mt-4">
