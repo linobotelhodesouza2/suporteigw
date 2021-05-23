@@ -112,10 +112,14 @@
 	    display: block;
 	    padding-top: 10px;
 	}
-	.container .mb-3 {
+}
+@media (min-width: 991px){
+	.container {
 	    max-width: 1086px !important;
+	    padding-top: 10px !important;
 	}
 }
+   
 /***********************************************************************/
 @media(max-width: 860px){
  	.toggle
