@@ -112,6 +112,9 @@
 	    display: block;
 	    padding-top: 10px;
 	}
+	.container .mb-3 {
+	    max-width: 1086px !important;
+	}
 }
 /***********************************************************************/
 @media(max-width: 860px){
